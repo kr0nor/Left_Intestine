@@ -1,8 +1,8 @@
-Origin:Left_intestine
+Origin: Left_intestine
 Label: Left_intestine
 Suite: stable
 Version: 1.0
-Codename:ios
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: My repo 
