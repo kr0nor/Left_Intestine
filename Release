@@ -1,0 +1,8 @@
+Origin:Left_intestine
+Label: Left_intestine
+Suite: stable
+Version: 1.0
+Codename:Left_intestine
+Architectures: iphoneos-arm
+Components: main
+Description: Left_intestine
